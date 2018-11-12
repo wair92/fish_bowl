@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/FishBowl.qml</file>
+        <file>images/fishbowl.png</file>
+        <file>qml/FishBowls.qml</file>
+        <file>images/fish.png</file>
+        <file>qml/Fish.qml</file>
+        <file>images/wood.png</file>
+        <file>images/deadfish.png</file>
+        <file>images/yellowfish.png</file>
+    </qresource>
+</RCC>
